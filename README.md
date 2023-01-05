@@ -12,7 +12,7 @@
 ---
 
 ## IDE 
-IntelliJ Idea || STS || Eclipse
+> IntelliJ Idea || STS || Eclipse
 
 ---
 
