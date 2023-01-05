@@ -98,3 +98,9 @@ designation, name, surname.
 6. Yearly financial report in the following format
 
     a. Event, Emp Id, Event Date, Event value
+    
+![IMG_20230105_172252](https://user-images.githubusercontent.com/117448701/210778670-55791f43-9792-4584-abfc-cb68b2ee3d67.png)
+
+![IMG_20230105_172350](https://user-images.githubusercontent.com/117448701/210778732-775f8c0f-47ec-4421-b7bd-11383eacb7e3.png)
+
+![IMG_20230105_172433](https://user-images.githubusercontent.com/117448701/210778762-79522fa0-d7b7-481e-9fb1-dd336d02aa25.png)
