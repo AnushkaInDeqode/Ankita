@@ -41,8 +41,59 @@ In this project we have used following dependencies :-
 
 ## Directory Structure
 
-
-
+```
+.
+├── src
+│   ├── main
+│   │   └── java
+│   │       └── com
+│   │           └── deqode
+│   │               └── backend2
+│   │                   └── innovationM_assignment
+│   │                       ├── controller
+│   │                       ├── exception
+│   │                       ├── mapper
+│   │                       ├── model
+│   │                       └── service
+│   └── test
+│       └── java
+│           └── com
+│               └── deqode
+│                   └── backend2
+│                       └── innovationM_assignment
+└── target
+    ├── classes
+    │   ├── com
+    │   │   └── deqode
+    │   │       └── backend2
+    │   │           └── innovationM_assignment
+    │   │               ├── controller
+    │   │               ├── exception
+    │   │               ├── mapper
+    │   │               ├── model
+    │   │               └── service
+    │   └── META-INF
+    │       └── maven
+    │           └── com.deqode.backend2
+    │               └── innovationM-assignment
+    ├── generated-sources
+    │   └── annotations
+    ├── generated-test-sources
+    │   └── test-annotations
+    ├── maven-archiver
+    ├── maven-status
+    │   └── maven-compiler-plugin
+    │       ├── compile
+    │       │   └── default-compile
+    │       └── testCompile
+    │           └── default-testCompile
+    ├── surefire-reports
+    └── test-classes
+        └── com
+            └── deqode
+                └── backend2
+                    └── innovationM_assignment
+```
 ---
 
 ## Steps to run the program
