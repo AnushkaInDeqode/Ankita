@@ -19,9 +19,9 @@ IntelliJ Idea || STS || Eclipse
 
 ## Install
 - [ ]  [Java 8](https://www.oracle.com/in/java/technologies/javase/javase8-archive-downloads.html)
-2. [IntelliJ Idea](https://www.jetbrains.com/idea/download/#section=windows)
-3. [STS ](https://spring.io/tools)
-4. [Eclipse ](https://www.eclipse.org/downloads/)
+- [ ] [IntelliJ Idea](https://www.jetbrains.com/idea/download/#section=windows)
+- [ ] [STS ](https://spring.io/tools)
+- [ ] [Eclipse ](https://www.eclipse.org/downloads/)
 
 ---
 
