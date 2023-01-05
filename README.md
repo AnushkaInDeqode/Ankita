@@ -1,9 +1,8 @@
 # Payroll Processing System in Java
 
-``PPC is a Payroll solution provider company who manages the payroll of the various companies from small scale to large scale company.``
+`PPC is a Payroll solution provider company who manages the payroll of the various companies from small scale to large scale company.`
 
-``PPC accepts the employees data from the client in either plain text format (.txt) or csv (.csv) format to
-manage the employee life cycle starting from date of onboarding to date of exit.``
+`PPC accepts the employees data from the client in either plain text format (.txt) or csv (.csv) format to manage the employee life cycle starting from date of onboarding to date of exit.`
 
 ---
 ## Requirements
@@ -27,13 +26,13 @@ IntelliJ Idea || STS || Eclipse
 
 ## Framework
 
-For this Payroll Processing System, we are using Collection framework of Java
+For this Payroll Processing System, we are using Collection framework of Java.
 
 ---
 
 ## Dependencies
 
-In this project we have used following dependencies
+In this project we have used following dependencies :-
 
 - JUnit
 
@@ -57,10 +56,10 @@ In this project we have used following dependencies
 |Event| Any one from below table|
 | EventDate | Date when this event happened in DD-MM-YYYY format.|
 |Notes|Date when this event happened in DD-MM-YYYY format.|
-|Value| Value according to the event. |
+|Value| Value according to the event. Refer the following table. |
 
-
-|Refer to this table for value | |          
+<b>Table for the value of the event</b>
+| | |          
 | ------------- |:-------------:| 
 | ONBOARD     | Date of Joining in MM-DD-YYYY format | 
 | SALARY      | Salary Amount in USD     |  
@@ -78,5 +77,23 @@ In this project we have used following dependencies
 
 2. Month wise following details
 
-  a. Total number of employees joined the organization with employee details like emp id,
+    a. Total number of employees joined the organization with employee details like emp id,
 designation, name, surname.
+
+    b. Total number of employees exit organization with employee details like name, surname.
+
+3. Monthly salary report in following format
+
+    a. Month, Total Salary, Total employees
+
+4. Employee wise financial report in the following format
+
+    a. Employee Id, Name, Surname, Total amount paid
+
+5. Monthly amount released in following format
+
+    a. Month, Total Amount (Salary + Bonus + REIMBURSEMENT), Total employees
+
+6. Yearly financial report in the following format
+
+    a. Event, Emp Id, Event Date, Event value
