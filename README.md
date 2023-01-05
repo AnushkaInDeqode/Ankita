@@ -77,4 +77,5 @@ In this project we have used following dependencies
 1. Total number of employees in an organization.
 
 2. Month wise following details
-
+1. Total number of employees joined the organization with employee details like emp id,
+designation, name, surname.
