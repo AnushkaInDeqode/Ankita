@@ -7,17 +7,17 @@
 ---
 ## Requirements
 
-> Java 1.8 or above
+> Java 11 or above
 
 ---
 
 ## IDE 
-> IntelliJ Idea || STS || Eclipse
+IntelliJ Idea || STS || Eclipse
 
 ---
 
 ## Install
-- [x]  [Java 8](https://www.oracle.com/in/java/technologies/javase/javase8-archive-downloads.html)
+- [x]  [Java 11](https://www.oracle.com/in/java/technologies/javase/jdk11-archive-downloads.html)
 - [x] [IntelliJ Idea](https://www.jetbrains.com/idea/download/#section=windows)
 - [x] [STS ](https://spring.io/tools)
 - [x] [Eclipse ](https://www.eclipse.org/downloads/)
