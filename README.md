@@ -7,7 +7,7 @@
 ---
 ## Requirements
 
-~ Java 1.8 or above
+> Java 1.8 or above
 
 ---
 
@@ -37,6 +37,7 @@ In this project we have used following dependencies :-
 - JUnit
 
 ---
+
 
 ## Directory Structure
 
